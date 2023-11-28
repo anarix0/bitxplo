@@ -1,5 +1,7 @@
 <div align="center">
+    <img src="/images/logo.png">
     <h1>bytexplorer</h1>
+    <h3>a upcoming professional remote access trojan.</h3>
     <img src="https://img.shields.io/github/license/anarix0/bytexplorer">
     <br>
     <img src="https://img.shields.io/github/languages/top/anarix0/bytexplorer?color=%23000000">
@@ -9,16 +11,23 @@
     <img src="https://img.shields.io/github/issues-closed/anarix0/bytexplorer?color=%23000000&logoColor=%23000000">
     <br>
 </div>
-<hr style="border-radius: 20%; margin-top: 30px; margin-bottom: 60px;" noshade="" size="35" width="100%">
-
-## bytexplorer is an upcoming project, any "pre-releases" are impostors[.](https://media.tenor.com/kFnJ7flTRLMAAAAd/among-us-dance.gif)
 
 ## features
-- system info
-- directory view
-- screenshots
-- self destruction
-- and more to come...
+
+## installation
+
+- download the code
+- modify it as you want
+ 
+**optional:**
+- download auto-py-to-exe `pip install auto-py-to-exe`
+- run `python -m auto-py-to-exe`
+- choose the file and use the settings as you want
+- compile
+    
+## screenshots
+
+no screenshots, yet
 
 ## errors?
 
