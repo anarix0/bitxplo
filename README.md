@@ -1,14 +1,14 @@
 <div align="center">
     <img src="/images/logo.png">
-    <h1>bytexplorer</h1>
+    <h1>bitxplo</h1>
     <h3>a upcoming professional remote access trojan.</h3>
-    <img src="https://img.shields.io/github/license/anarix0/bytexplorer">
+    <img src="https://img.shields.io/github/license/anarix0/bitxplo">
     <br>
-    <img src="https://img.shields.io/github/languages/top/anarix0/bytexplorer?color=%23000000">
-    <img src="https://img.shields.io/github/stars/anarix0/bytexplorer?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/languages/top/anarix0/bitxplo?color=%23000000">
+    <img src="https://img.shields.io/github/stars/anarix0/bitxplo?color=%23000000&logoColor=%23000000">
     <br>
-    <img src="https://img.shields.io/github/issues/anarix0/bytexplorer?color=%23000000&logoColor=%23000000">
-    <img src="https://img.shields.io/github/issues-closed/anarix0/bytexplorer?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues/anarix0/bitxplo?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues-closed/anarix0/bitxplo?color=%23000000&logoColor=%23000000">
     <br>
 </div>
 
@@ -31,5 +31,5 @@ no screenshots, yet
 
 ## errors?
 
--   Make an [issue](https://github.com/anarix0/bytexplorer/issues)
+-   Make an [issue](https://github.com/anarix0/bitxplo/issues)
 -   Join the [Discord](https://dsc.gg/void0)
